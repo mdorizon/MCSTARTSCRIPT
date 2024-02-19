@@ -1,3 +1,4 @@
+# MC START SCRIPT BY WAKUSAY
 SCREEN="ressource" #Name of the screen
 NAME="ressource" #Name of the ressource
 COMMAND="while true; do java -Xms10G -Xmx10G -jar paper.jar --nogui; echo 'Server restarting...'; sleep 10; done" #java start command
